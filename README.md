@@ -1,5 +1,3 @@
-Hi, I'm undefin4d 🐳
-
-A Software Engineer
+Hi, I'm undefin4d 🐳 , a Software Engineer
 
 English learning ...
